@@ -37,51 +37,51 @@ Your objectives for the day is to:
 
 ### This
 
-- [ ] Watch these videos:
+- [x] Watch these videos:
   - https://shereef.wistia.com/medias/wfybhl2nmr
   - https://shereef.wistia.com/medias/kqbedkmm13
-- [ ] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
-- [ ] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
-- [ ] Complete the [Keyword "this" lesson][udacity]
+- [x] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+- [x] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
+- [x] Complete the [Keyword "this" lesson][udacity]
 
 ### Stretch
 
-- [ ] Do exercises for Chapter 4 of [Object Oriented Javascript][book-oojs] (and maybe read it)
-- [ ] Study these [top 50 OOPs interview questions](http://career.guru99.com/top-50-oops-interview-questions/)
+- [x] Do exercises for Chapter 4 of [Object Oriented Javascript][book-oojs] (and maybe read it)
+- [x] Study these [top 50 OOPs interview questions](http://career.guru99.com/top-50-oops-interview-questions/)
 
 ## Day 3: Prototype and Inheritance
 
-- [ ] Watch these videos on Prototypes:
+- [x] Watch these videos on Prototypes:
   - https://shereef.wistia.com/medias/a5m8nwq4su
   - https://shereef.wistia.com/medias/ednchu35gz
   - https://shereef.wistia.com/medias/yejzrin760
   - https://shereef.wistia.com/medias/372u07ybvu
   - https://shereef.wistia.com/medias/xxj6323pk9
-- [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
-- [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
-- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+- [x] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [x] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [x] Complete the [Prototype Chains][udacity] Lesson on Udacity
+- [x] Complete the [Prototypal Classes][udacity] Lesson on Udacity
 
 ### Stretch
 
-- [ ] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
-- [ ] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
-- [ ] Read sections 7 in [JS Ninja](ninja)
-- [ ] Do exercises for Chapter 5 of [Object Oriented Javascript][book-oojs] (and maybe read it)
-- [ ] Do exercises for Chapter 6 of [Object Oriented Javascript][book-oojs] (and maybe read it)
+- [x] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
+- [x] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+- [x] Read sections 7 in [JS Ninja](ninja)
+- [x] Do exercises for Chapter 5 of [Object Oriented Javascript][book-oojs] (and maybe read it)
+- [x] Do exercises for Chapter 6 of [Object Oriented Javascript][book-oojs] (and maybe read it)
 
 ## Day 4: Deeper Dive and Final Project
 
-- [ ] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
-- [ ] Complete the [Functional Classes][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
-- [ ] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
+- [x] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
+- [x] Complete the [Functional Classes][udacity] Lesson on Udacity
+- [x] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
+- [x] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
+- [x] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
+- [x] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
 
 ## Day 5: Final Project and check your understanding
 
-- [ ] Complete the [Final Project][udacity] Lesson on Udacity
+- [x] Complete the [Final Project][udacity] Lesson on Udacity
 
 Do you know/understand:
 
